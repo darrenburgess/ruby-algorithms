@@ -11,4 +11,5 @@ class BasicAlgorithms < Neo::Koan
     result = reverse_a_string(string)
     assert_equal result, "!dlrow olleh"
   end
+
 end
